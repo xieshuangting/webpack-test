@@ -1,0 +1,7 @@
+div:nth-child(2n){
+    background: red;
+}
+
+body{
+    background: red;
+}
